@@ -1,0 +1,7 @@
+steps for setting the environment:
+1] Install Python 
+2]Create a directory 
+3] Activate the directory and setup the myenv/venv environment using python -m venv myenv
+4] pip install Flask: command to install flask
+5] Check the version of python and flask
+6] python maths.py and specify the port number 
